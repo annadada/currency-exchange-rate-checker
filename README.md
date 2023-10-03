@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/currency-exchange-rate-checker.git
+   git clone https://github.com/annadada/currency-exchange-rate-checker.git
    ```
 2. Navigate to the project directory.
     ```bash
