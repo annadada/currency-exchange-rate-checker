@@ -14,6 +14,12 @@ The Currency Exchange Rate Checker is a simple web application built with Flask 
 - Responsive design for various screen sizes.
 - Data provided by the National Bank of Poland (NBP).
 
+### *Technologies Used*:
+This project utilizes the following technologies:
+- **Python (Flask):** Python is used for server-side scripting and handling HTTP requests. The Flask framework is employed to build the backend of the application.
+- **JavaScript:** JavaScript is responsible for form validation to ensure that users provide valid input before submitting the form and for drawing the historical exchange rate chart for the last 30 days.
+- **HTML/CSS:** HTML is used for structuring the web page's content, while CSS is responsible for styling and layout.
+
 ### *Prerequisites*:
 Before you begin, ensure you have met the following requirements:
 - Python 3.x installed.
