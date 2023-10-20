@@ -1,4 +1,4 @@
-# Currency Exchange Rate Checker
+# Currency Exchange Rate Checker (Python)
 ## Check the real-time exchange rates of the Polish zloty (PLN) against other currencies
 
 ### *Overview*:
